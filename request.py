@@ -1,8 +1,8 @@
 import requests
 import time
 
-ip_address = '104.21.1.218'  # Replace with the IP address you want to request
-domain = 'seaqua.io'  # Replace with the domain associated with the IP address
+ip_address = '104.21.1.218'  
+domain = 'seaqua.io'  
 
 while True:
     try:
